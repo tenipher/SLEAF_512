@@ -1,2 +1,2 @@
 # SLEAF_512
-SLEAF_512 IS A CYPHER USED TO ENCRYPT AND DECRYPT MESSAGES WITH A VERY SLOW ALGORITHM
+A mini-cypher, something akin to that project that saves files in digits of Pi.
